@@ -51,9 +51,13 @@ ipywidgets
 📁 Project Structure
 
 weinsure
+
 ├── weinsure_prediction.ipynb
+
 ├── insurance.csv
+
 ├── README.md
+
 └── requirements.txt
 
 ---
