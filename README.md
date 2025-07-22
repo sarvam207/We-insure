@@ -4,7 +4,7 @@ An interactive machine learning project to predict medical insurance charges bas
 
 ## 🔍 Overview
 This project explores the factors that influence insurance pricing and builds regression models to predict individual insurance costs. It includes an interactive Jupyter Notebook interface using `ipywidgets` for real-time predictions.
-
+---
 ## 📊 Dataset
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance) and includes 7 features:
 - Age
@@ -14,12 +14,12 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi021
 - Smoker
 - Region
 - Charges (target)
-
+---
 ## 🧠 ML Models Used
 - Linear Regression
 - Random Forest Regressor
 - XGBoost Regressor
-
+---
 ## 🛠️ Features
 - Exploratory Data Analysis (EDA)
 - Data preprocessing and encoding
@@ -27,9 +27,13 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi021
 - Interactive prediction using `ipywidgets`
 - Feature importance visualization
 
+--- 
+
 ## 💡 Key Insights
 - Smoking status and BMI are the most influential factors.
 - Tree-based models (XGBoost) performed best on evaluation metrics.
+
+---
 
 ## 🚀 How to Use
 1. Clone the repository:
@@ -38,16 +42,18 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi021
    cd weinsure-insurance-prediction
 ```
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Open the notebook:
+```bash
 jupyter notebook weinsure_prediction.ipynb
-
+```
 
 4. Use the widgets to test predictions interactively.
 
-
+---
 
 📦 Requirements
 
@@ -59,6 +65,7 @@ scikit-learn
 xgboost
 ipywidgets
 
+---
 
 📁 Project Structure
 
@@ -73,8 +80,6 @@ weinsure/
 ## 🧠 Author
 
 **Sarvam Saroha**
-🔗 [LinkedIn](https://linkedin.com/in/sarvamsaroha) |
- [GitHub](https://github.com/sarvam207)
-
+🔗 [LinkedIn](https://linkedin.com/in/sarvamsaroha) | [GitHub](https://github.com/sarvam207)
 
 For queries or collaborations, feel free to connect!
