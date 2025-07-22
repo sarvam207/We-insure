@@ -1,6 +1,7 @@
 # WeInsure – Medical Insurance Cost Prediction 💡
 
 An interactive machine learning project to predict medical insurance charges based on user input features like age, BMI, region, and smoking status.
+---
 
 ## 🔍 Overview
 This project explores the factors that influence insurance pricing and builds regression models to predict individual insurance costs. It includes an interactive Jupyter Notebook interface using `ipywidgets` for real-time predictions.
@@ -35,26 +36,6 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi021
 
 ---
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weinsure-insurance-prediction.git
-   cd weinsure-insurance-prediction
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook:
-```bash
-jupyter notebook weinsure_prediction.ipynb
-```
-
-4. Use the widgets to test predictions interactively.
-
----
-
 📦 Requirements
 
 pandas
@@ -69,7 +50,7 @@ ipywidgets
 
 📁 Project Structure
 
-weinsure/
+weinsure
 ├── weinsure_prediction.ipynb
 ├── insurance.csv
 ├── README.md
