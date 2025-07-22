@@ -1,11 +1,11 @@
 # WeInsure – Medical Insurance Cost Prediction 💡
 
 An interactive machine learning project to predict medical insurance charges based on user input features like age, BMI, region, and smoking status.
----
+
 
 ## 🔍 Overview
 This project explores the factors that influence insurance pricing and builds regression models to predict individual insurance costs. It includes an interactive Jupyter Notebook interface using `ipywidgets` for real-time predictions.
----
+
 ## 📊 Dataset
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance) and includes 7 features:
 - Age
