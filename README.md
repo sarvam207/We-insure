@@ -68,7 +68,13 @@ weinsure/
 ├── README.md
 └── requirements.txt
 
-📬 Contact
+---
+
+## 🧠 Author
+
+**Sarvam Saroha**
+🔗 [LinkedIn](https://linkedin.com/in/sarvamsaroha) |
+ [GitHub](https://github.com/sarvam207)
+
 
 For queries or collaborations, feel free to connect!
-Sarvam
